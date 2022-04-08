@@ -1,7 +1,7 @@
 ---
-title: "Título de tu blog post"
+title: "Ruta de aprendizaje"
 date: 2022-04-07
-description: 'Ruta de aprendizaje'
+description: 'Experiencias en LaunchX'
 ---
 
 Desde que inicio el programa he estado más pegado a la computadora. La primer semana me gustó mucho, independientemente de
