@@ -5,17 +5,15 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quien soy?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Apreciable lector
+> por medio de la presente me expreso con un poco de texto
+> Mi nombre es *Victor*
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Me gusta jugar videojuegos, comer palomitas, carne, nachos y tomar refresco, cuando siento que me duele la panza, tomo agua, jajaja intentando 
+hacer un especie de balanza en el cuerpo. Cuando me acuerdo salgo a correr (casi no me acuerdo).
+Tuve la oportunidad de estudiar la universidad, no la aproveché como se debía, pero logré titularme, 
+hoy estoy aquí por mi hermano que me comentó de este programa, es interesante el mundo que hay detrás de la programación.
